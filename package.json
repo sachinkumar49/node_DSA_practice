@@ -1,0 +1,20 @@
+{
+  "name": "node_dsa_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinkumar49/node_DSA_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinkumar49/node_DSA_practice/issues"
+  },
+  "homepage": "https://github.com/sachinkumar49/node_DSA_practice#readme"
+}
